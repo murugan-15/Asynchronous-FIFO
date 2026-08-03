@@ -2,7 +2,9 @@
 // Project     : Asynchronous FIFO
 // Module      : async_fifo_top
 // Language    : Verilog/SystemVerilog
-// Description : Extracted from original design.sv
+// Author      : Ramasubbu Bala Murugan
+// Description : Asychronous FIFO Top module
+// Language    : Verilog-2001
 //============================================================
 
 module async_fifo_top
